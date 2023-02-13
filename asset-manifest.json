@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/new/static/css/main.7ad859b7.css",
+    "main.js": "/new/static/js/main.1ff88e0e.js",
+    "static/media/img-2.jpg": "/new/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/new/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/new/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-5.jpg": "/new/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-1.jpg": "/new/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-9.jpg": "/new/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/new/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/planet-2.svg": "/new/static/media/planet-2.114cdca274307df1d3bbf9dd4f72a7a9.svg",
+    "static/media/planet-3.svg": "/new/static/media/planet-3.ed08a7ab220d3b894f8386f098839fb9.svg",
+    "static/media/planet-4.svg": "/new/static/media/planet-4.32709d8a1065ce7028d2342c904d42ac.svg",
+    "static/media/planet.svg": "/new/static/media/planet.aec32de649fac52e542f5677705aa30a.svg",
+    "index.html": "/new/index.html",
+    "main.7ad859b7.css.map": "/new/static/css/main.7ad859b7.css.map",
+    "main.1ff88e0e.js.map": "/new/static/js/main.1ff88e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad859b7.css",
+    "static/js/main.1ff88e0e.js"
+  ]
+}
